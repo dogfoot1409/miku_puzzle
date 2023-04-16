@@ -1,168 +1,17 @@
 body {
     text-align: center;
+    background-color: none;
+    cursor: default;
 }
 
-.puzzle > div#a0:nth-child(1){
-    background-color: aqua;
-    
+
+
+.b{
+    cursor:grab
 }
 
-.puzzle > div#a1:nth-child(2){
-    background-color: aqua;
-    
-}
 
-.puzzle > div#a2:nth-child(3){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a3:nth-child(4){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a4:nth-child(5){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a5:nth-child(6){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a6:nth-child(7){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a7:nth-child(8){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a8:nth-child(9){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a9:nth-child(10){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a10:nth-child(11){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a11:nth-child(12){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a12:nth-child(13){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a13:nth-child(14){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a14:nth-child(15){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a15:nth-child(16){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a16:nth-child(17){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a17:nth-child(18){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a18:nth-child(19){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a19:nth-child(20){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a20:nth-child(21){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a21:nth-child(22){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a22:nth-child(23){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a23:nth-child(24){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a24:nth-child(25){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a25:nth-child(26){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a26:nth-child(27){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a27:nth-child(28){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a28:nth-child(29){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a29:nth-child(30){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a30:nth-child(31){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a31:nth-child(32){
-    background-color: aqua;
-    
-}
-
-.puzzle > div#a32:nth-child(33){
-    background-color: aqua;
-    
+.ui-state-disabled{
+    opacity:1 !important;
+    background-color: aqua !important;
 }
